@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+_While I was not able to schedule an interview I have included the questions that I would have liked to ask._
 
-You can use the [editor on GitHub](https://github.com/JessPaley/Assignment-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Questions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JessPaley/Assignment-3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Provide a brief overview of your current position.
+2. Describe a day in the life at your job.
+3. What led you to this position? Was this a job that you were actively seeking out or was the decision more spontaeneous?
+5. What aspects of the job did you feel you were adequately prepared for, and what did you need to learn as you went?
+6. In your opinion, what are the most important skills to learn (technical or social) to be successful in this field?
+7. To what extent did the position meet your initial expectations?
+8. What do you enjoy most about your current job?
+9. Is there anything that you wish you could change about your current job?
+10. What is somehting you think most people don't know or realize about your job?
+11. Describe the atmosphere at your current job. Do you think this is typical for similar jobs?
+12. What is something you wish you would have known before starting your current position?
+13. What advice do you have for someone who is pursuing a similar career?
